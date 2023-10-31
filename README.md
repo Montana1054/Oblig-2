@@ -1,4 +1,4 @@
-##DAVE3625 - oblig2
+#DAVE3625 oblig2
 
 
 Jeg valgte case 1: Predict stock market price for TESLA.
